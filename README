@@ -1,0 +1,13 @@
+Quick Gem Selection System
+
+The purpose of this software is to demonstrate an alternative method of gem selection for Street Fighter X Tekken. 
+
+This project will compile using Visual Studio 2010. The include and lib directories pointing to SFML will probably need to be changed once the source code has been cloned to your local machine, but once that is done, everything should just work. 
+
+The software is configured to work with Joystick 0, and was tested with an Xbox 360 Mad Catz TE using the standard Street Fighter XYRB/ABRT layout.
+
+To set up a gem unit, select three gems by entering each of their three-digit gem numbers.
+
+1 through 9: Direction + LP
+0:           MP
+Backspace:   LK
